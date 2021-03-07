@@ -1,0 +1,10 @@
+ #platform :ios, '9.0'
+
+target 'Sportawy' do
+  use_frameworks!
+
+pod 'SDWebImage', '~> 4.0'
+pod 'Alamofire', '~> 5.0.0-rc.2'
+pod 'YouTubePlayer'
+pod 'ReachabilitySwift'
+end

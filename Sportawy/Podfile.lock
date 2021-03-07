@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.0.5)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - YouTubePlayer (0.7.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.2)
+  - ReachabilitySwift
+  - SDWebImage (~> 4.0)
+  - YouTubePlayer
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ReachabilitySwift
+    - SDWebImage
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  YouTubePlayer: 2b5f2830d8f9b2cde942083211291e382c9e6bd5
+
+PODFILE CHECKSUM: 570445e3da237ba46c5918f09b4e6ecab92d9918
+
+COCOAPODS: 1.10.1
