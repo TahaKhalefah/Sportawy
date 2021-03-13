@@ -1,9 +1,10 @@
 # Sportawy
 Sportawy is sports app using SportsDB API
 <p align="center">
-  <img src="4.PNG" width="350" title="hover text">
-  <img src="5.PNG" width="350" alt="accessibility text">
-  <img src="3.PNG" width="350" title="hover text">
-  <img src="2.PNG" width="350" alt="accessibility text">
-  <img src="1.PNG" width="350" title="hover text">
+  <img src="00.PNG" width="350" title="hover text">
+  <img src="01.PNG" width="350" alt="accessibility text">
+  <img src="02.PNG" width="350" title="hover text">
+  <img src="03.PNG" width="350" alt="accessibility text">
+  <img src="06.PNG" width="350" title="hover text">
+   <img src="05.PNG" width="350" title="hover text">
 </p>
